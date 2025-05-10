@@ -34,6 +34,7 @@ public class TemplateMod {
         context.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
     }
 
+    // Test
     private void commonSetup(final FMLCommonSetupEvent event) {
 
     }
