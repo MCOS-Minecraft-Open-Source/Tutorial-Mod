@@ -1,0 +1,4 @@
+// 1.20.1	2025-05-11T09:17:37.5449255	Registries
+6e10223d8ca98f02feea2da07585014b7a38b1e4 data/tutorialmod/forge/biome_modifier/add_sapphire_ore.json
+0a6777e2802bfb51b55475ee57ea3a60629a4dc6 data/tutorialmod/worldgen/configured_feature/sapphire_ore.json
+88e063c6bcda7f4c1f58fea7d48621a8053aed7d data/tutorialmod/worldgen/placed_feature/sapphire_ore_placed.json
